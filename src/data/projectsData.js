@@ -19,6 +19,15 @@ export const projectsData = [
         image: one
     },
     {
+        id: 4,
+        projectName: 'Appliquer',
+        projectDesc: 'This is a job application portal.',
+        tags: ['React js', 'Django','Material UI','JWT', 'React-Bootstrap'],
+        code: 'https://github.com/dev-triangle/appliquer-frontend',
+        demo: '',
+        image: four
+    },
+    {
         id: 2,
         projectName: 'CryptoGram',
         projectDesc: 'A completely decentralized social media website that enables users to interact with their friends and relatives without compromising their privacy and personal info. ',
@@ -36,16 +45,8 @@ export const projectsData = [
         demo: 'https://the-cocktail.vercel.app/',
         image: three
     },
+   
    /* {
-        id: 4,
-        projectName: 'Android Patient Tracker',
-        projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
-        tags: ['Flutter', 'Firebase'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: four
-    },
-    {
         id: 5,
         projectName: 'E-Commerce App',
         projectDesc: 'A Simple E-commerce application',
